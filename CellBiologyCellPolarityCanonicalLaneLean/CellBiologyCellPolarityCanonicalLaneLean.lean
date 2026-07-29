@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CellBiologyCellPolarityCanonicalLaneLean
+
+end CellBiologyCellPolarityCanonicalLaneLean
+end HautevilleHouse
